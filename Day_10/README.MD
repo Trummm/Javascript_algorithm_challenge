@@ -1,4 +1,4 @@
-## **Day 9**
+## **Day 10**
 
 ##### Algorithm Challenge Available At [CodeFights](https://codefights.com/arcade/intro/level-5/g6dc9KJyxmFjB98dL)
 
