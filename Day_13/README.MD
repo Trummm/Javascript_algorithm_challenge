@@ -1,4 +1,4 @@
-## **Day 11**
+## **Day 13**
 
 ##### Algorithm Challenge Available At [CodeFights](https://codefights.com/arcade/code-arcade/spring-of-integration/dwA8RtDF86WucuoaQ)
 

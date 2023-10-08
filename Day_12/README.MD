@@ -1,4 +1,4 @@
-## **Day 11**
+## **Day 12**
 
 ##### Algorithm Challenge Available At [CodeFights](https://codefights.com/arcade/intro/level-4/xvkRbxYkdHdHNCKjg)
 
